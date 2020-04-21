@@ -4,7 +4,7 @@ questions =
             "I'm excited to check my underwear after farting.",
             "A fart that leaves no mark as its legacy is worthless.",
             "I enjoy the warmth of fart liquid.",
-			"All of my underwear has brown stains."
+			"All of my underwear have brown stains."
         ],
         [//Dry
             "Wet farts are just poop.",
@@ -22,7 +22,7 @@ questions =
             "A fart's smell should be known only to the farter.",
             "The smell of my own farts disgust me.",
             "The smell of other people's farts disgust me.",
-            "If I wanted to smell shit, I'd go to the bathroom."
+            "If I wanted to smell shit, I'd just go to the bathroom."
         ]],[//Quiet-Loud
         [//Quiet
             "Noisy farts ruin the surprise.",
