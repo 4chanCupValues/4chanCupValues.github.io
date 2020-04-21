@@ -13,7 +13,7 @@
 <h1>BrapValues</h1>
 <hr>
 <h2 style="text-align:center;" id="question-number">Loading...</h2>
-<p class="question" id="question-text"></p>
+<div class="question"><span id="question-text"></span></div>
 <button class="button" onclick="next_question( 1.0)" style="background-color: #1b5e20;">Strongly Agree</button> <br>
 <button class="button" onclick="next_question( 0.5)" style="background-color: #4caf50;">Agree</button> <br>
 <button class="button" onclick="next_question(   0)" style="background-color: #bbbbbb;">Neutral/Unsure</button> <br>
@@ -29,6 +29,12 @@
     var quests = [];
     init_all_questions(quests);
     init_question(quests);
+
+    document.addEventListener("click", function (e) {
+        if (e.target && e.target.classList.contains("help")) {
+            alert(e.target.getAttribute("title"))
+        }
+    });
     
     function init_all_questions(qs) {
         for(var i = 0; i < questions.length; i++)

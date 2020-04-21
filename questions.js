@@ -16,7 +16,7 @@ questions =
             "The more people who smell a fart, the better.",
             "A fart that doesn't smell may as well not be a fart at all.",
             "I like the lingering odor of a fart.",
-            "I often Dutch oven myself."
+            "I often Dutch oven<sup class='help' title='Trapping a fart under a cover to inhale it.'>?</sup> myself."
         ],
         [//Odorless
             "A fart's smell should be known only to the farter.",

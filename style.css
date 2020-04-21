@@ -30,7 +30,7 @@ p.value-description {
     text-indent: -16pt;
     margin-left: 20pt;
 }
-p.question {
+.question {
     margin: 16pt auto;
     color: #333333;
     font-family: 'Montserrat', sans-serif;
@@ -46,7 +46,12 @@ p.question {
     justify-content: center;
     align-items: center;
     text-align: center;
-
+}
+sup {
+    font-size: xx-large;
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+    cursor: help;
 }
 h1 {
     color: #222222;
