@@ -1,39 +1,39 @@
 questions = 
-    [[//Wet-Dry
-        [//Wet
-            "I'm excited to check my underwear after farting.",
-            "A fart that leaves no mark as its legacy is worthless.",
-            "I enjoy the warmth of fart liquid.",
-			"All of my underwear have brown stains."
+    [[//Anarchy-Serious
+        [//Anarchy
+            "It's worth putting meme formations in the first tactical export.",
+            "Getting creative with sliders is worthwhile.",
+            "Destroyer cards are a must.",
+			"The more anal the manager, the more the team fails."
         ],
-        [//Dry
-            "Wet farts are just poop.",
-            "Cleaning up a wet fart is more trouble than it's worth.",
-            "I always change after a wet fart.",
-			"I often go to the toilet to fart in case it's more than just a fart."
-        ]],[//Smelly-Odorless
-        [//Smelly
-            "The more people who smell a fart, the better.",
-            "A fart that doesn't smell may as well not be a fart at all.",
-            "I like the lingering odor of a fart.",
-            "I often Dutch oven<sup class='help' title='Trapping a fart under a cover to inhale it.'>?</sup> myself."
+        [//Serious
+            "A team cannot win a cup without proper testing.",
+            "There is no need to throw seven niggas forward in desperate times.",
+            "I only use my timeouts if my tactics aren't working.",
+			"Medals further back than a CMF don't work."
+        ]],[//Manager-Merc
+        [//Manager
+            "Engaging with the board builds better rosters.",
+            "Gold players should change with the board's wishes.",
+            "There is no excuse for having in-game faces on the team.",
+            "The essence of a team is proportional to the quality of their in-game models."
         ],
-        [//Odorless
-            "A fart's smell should be known only to the farter.",
-            "The smell of my own farts disgust me.",
-            "The smell of other people's farts disgust me.",
-            "If I wanted to smell shit, I'd just go to the bathroom."
-        ]],[//Quiet-Loud
-        [//Quiet
-            "Noisy farts ruin the surprise.",
-            "It's embarrassing when people hear me fart.",
-            "I negatively judge those who fart loudly in public.",
-            "I prefer slowly, quietly allowing air to escape."
+        [//Merc
+            "Polls don't need to be run before every cup my team is participating in.",
+            "Chants aren't really that important.",
+            "There's nothing wrong with managing a board I don't use.",
+            "Player-specific goalhorns are not necessary."
+        ]],[//Shitposter-Nofun
+        [//Shitposter
+            "Player lore interests me.",
+            "It's okay to shitpost on /4ccg/ when the thread is dead.",
+            "I use my tripcode on /4ccg/ outside of verification.",
+            "It's better to make a name for myself in the cup rather than be a nobody who manages."
         ],
-        [//Loud
-            "I like being able to feel the breeze from a fart.",
-            "I like everyone to know it was me who farted.",
-            "The noise is half of the fun.",
-            "I angle myself to make the noisiest fart possible."
+        [//Nofun
+            "Copypasta spam is annoying.",
+            "I aspire to be part of /admin/ one day, or even the new commissioner.",
+            "Playing chicken with deadlines is a meaningless endeavor.",
+            "/4ccg/ should be reserved for serious discussion."
         ]
     ]];
