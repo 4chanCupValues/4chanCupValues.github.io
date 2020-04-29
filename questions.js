@@ -7,38 +7,44 @@ questions =
 	    "The more anal the manager, the more the team fails.",
 	    "There's no danger in making the goalkeeper take a penalty.",
 	    "All my team's problems can be fixed with gegenpress.",
-	    "Fluid formations work.",
-	    "Experimenting with unorthodox formations (2-3-5, 4-5-1) pays off."
+	    "Experimenting with unorthodox formations (2-3-5, 4-5-1) pays off.",
+	    "If my team is leading a defensive team, it's worth continuing to attack.",
+	    "I prefer to set up the team during the pre-game."
         ],
         [//Serious
             "A team cannot win a cup without proper testing.",
             "There is no need to throw seven niggas forward in desperate times.",
             "I only use my timeouts if my tactics aren't working.",
-	    "Medals further back than a CMF don't work.",
+	    "Both gold medal players should be forwards.",
 	    "Going +2 is a risk that fails more than it succeeds.",
 	    "Choosing the right player cards is key to a successful team.",
 	    "I use all my substitutions to sub on players with the best conditions.",
-	    "My team is set up in the export and is all ready to go."
+	    "I test both offensive and defensive formations in case I need to turn on fluid.",
+	    "My team can always win as long as I do the correct changes."
         ]],[//Manager-Merc
         [//Manager
             "Engaging with the board builds better rosters.",
             "Gold players should change with the board's wishes.",
-            "There is no excuse for having in-game faces on the team.",
             "The essence of a team is proportional to the quality of their in-game models.",
 	    "I would use a Discord to communicate with my board.",
 	    "All polls should require a verification question.",
-	    "Each team could benefit from a full-body model or two.",
-	    "I keep the team's wiki page updated."
+	    "Making kits work for full-body models is necessary.",
+	    "I keep the team's wiki page updated regularly.",
+	    "More teams should work to have joint music when possible.",
+	    "I make match threads for my team."
         ],
         [//Merc
             "Polls don't need to be run before every cup my team is participating in.",
             "Chants aren't really that important.",
             "There's nothing wrong with managing a board I don't use.",
-            "Player-specific goalhorns are not necessary.",
+            "One main goalhorn is enough.",
 	    "As long as I get POI, I'm still a manager.",
 	    "I don't need a co-manager for any reason.",
 	    "An anthem doesn't need to have hype, it just needs to be related to the team.",
-	    "Three outfielder kits is all you need."
+	    "Three outfielder kits is all you need.",
+	    "A hype video for my team is just additional work.",
+	    "It's better to steal a good team's tactics than to just make your own.",
+	    "If the roster looks good, there's no need to fix it."
         ]],[//Shitposter-Nofun
         [//Shitposter
             "Player lore interests me.",
