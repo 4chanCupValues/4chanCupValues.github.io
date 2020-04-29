@@ -4,7 +4,7 @@ questions =
             "It's worth putting meme formations in the first tactical export.",
             "Getting creative with sliders is worthwhile.",
             "Destroyer cards are a must.",
-	    "The more anal the manager, the more the team fails.",
+	    "Sometimes, it's better to let RNGesus take the wheel.",
 	    "There's no danger in making the goalkeeper take a penalty.",
 	    "All my team's problems can be fixed with gegenpress.",
 	    "Experimenting with unorthodox formations (2-3-5, 4-5-1) pays off.",
@@ -30,7 +30,9 @@ questions =
 	    "I always spam emotes in chat when someone scores, even if it isn't my team.",
 	    "People who take the cup seriously are retarded.",
 	    "The cup's IRC and Discord need spicing up.",
-	    "Encouraging new teams in the cup is great, even if the boards themselves are boring."
+	    "Every shitposter should be allowed to shitpost.",
+	    "Encouraging new teams in the cup is great, even if the boards themselves are boring.",
+	    "I make new /4ccg/ threads simply for the edition."
         ],
         [//Nofun
             "Copypasta spam is annoying.",
@@ -40,7 +42,9 @@ questions =
 	    "Color commentary makes the experience worse.",
 	    "Jumping on /4ccg/ shitpost bandwagons (e.g. >page 9, deer ses, LMAOposting) ruins threads.",
 	    "Even though this is 4chan, the cup shouldn't be outright anarchical.",
-	    "All cup discussion should remain limited to /vg/, /sp/ and /mlp/."
+	    "All cup discussion should remain limited to /vg/, /sp/ and /mlp/.",
+	    "Qualifiers are better than a megababby.",
+	    "Aesthetics need regulations."
         ]],[//Manager-Merc
         [//Manager
 	    "Engaging with the board builds better rosters.",
