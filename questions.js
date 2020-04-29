@@ -21,9 +21,29 @@ questions =
 	    "I use all my substitutions to sub on players with the best conditions.",
 	    "I test both offensive and defensive formations in case I need to turn on fluid.",
 	    "My team can always win as long as I do the correct changes."
+        ]],[//Shitposter-Nofun
+        [//Shitposter
+            "Player lore interests me.",
+            "It's okay to shitpost on /4ccg/ when the thread is dead.",
+            "I use my tripcode on /4ccg/ outside of verification.",
+            "It's better to make a name for myself in the cup rather than be a nobody who manages.",
+	    "I always spam emotes in chat when someone scores, even if it isn't my team.",
+	    "People who take the cup seriously are retarded.",
+	    "The cup's IRC and Discord need spicing up.",
+	    "Encouraging new teams in the cup is great, even if the boards themselves are boring."
+        ],
+        [//Nofun
+            "Copypasta spam is annoying.",
+            "I aspire to be part of /admin/ one day, or even the new commissioner.",
+            "Playing chicken with deadlines is a meaningless endeavor.",
+            "/4ccg/ should be reserved for serious discussion.",
+	    "Color commentary makes the experience worse.",
+	    "Jumping on /4ccg/ shitpost bandwagons (e.g. >page 9, deer ses, LMAOposting) ruins threads.",
+	    "Even though this is 4chan, the cup shouldn't be outright anarchical.",
+	    "All cup discussion should remain limited to /vg/, /sp/ and /mlp/."
         ]],[//Manager-Merc
         [//Manager
-            "Engaging with the board builds better rosters.",
+	    "Engaging with the board builds better rosters.",
             "Gold players should change with the board's wishes.",
             "The essence of a team is proportional to the quality of their in-game models.",
 	    "I would use a Discord to communicate with my board.",
@@ -45,25 +65,5 @@ questions =
 	    "A hype video for my team is just additional work.",
 	    "It's better to steal a good team's tactics than to just make your own.",
 	    "If the roster looks good, there's no need to fix it."
-        ]],[//Shitposter-Nofun
-        [//Shitposter
-            "Player lore interests me.",
-            "It's okay to shitpost on /4ccg/ when the thread is dead.",
-            "I use my tripcode on /4ccg/ outside of verification.",
-            "It's better to make a name for myself in the cup rather than be a nobody who manages.",
-	    "I always spam emotes in chat when someone scores, even if it isn't my team.",
-	    "People who take the cup seriously are retarded.",
-	    "The cup's IRC and Discord need spicing up.",
-	    "Encouraging new teams in the cup is great, even if the boards themselves are boring."
-        ],
-        [//Nofun
-            "Copypasta spam is annoying.",
-            "I aspire to be part of /admin/ one day, or even the new commissioner.",
-            "Playing chicken with deadlines is a meaningless endeavor.",
-            "/4ccg/ should be reserved for serious discussion.",
-	    "Color commentary makes the experience worse.",
-	    "Jumping on /4ccg/ shitpost bandwagons (e.g. >page 9, deer ses, LMAOposting) ruins threads.",
-	    "Even though this is 4chan, the cup shouldn't be outright anarchical.",
-	    "All cup discussion should remain limited to /vg/, /sp/ and /mlp/."
         ]
     ]];
